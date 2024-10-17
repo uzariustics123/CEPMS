@@ -1,8 +1,21 @@
-# React + Vite
+# Tangub City's City Engineering Project Management System
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
+## General Objectives
+- The main objective of this study is to develop the City Engineering Project Monitoring System.
+    - City Engineering Project Monitoring System” is designed to streamline and monitor projects through the use of SMS and upload photo with the provided checklist. This system will make the office engineers updated in every project progress from the on-site engineers and make the monitoring system more efficient and accurate.
+### System specific objectives
+- Build a system that applies login and registration for the following:
+    - Staff
+    - Engineer
+    - City Mayor
+- generate reports for the City Engineering Office.
+- Calendar implementatin for monitoring the project.
+- Project Interface and status.
+- Project CRUD operations.
+- SMS Notification.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+
