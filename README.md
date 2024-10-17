@@ -1,7 +1,4 @@
 # Tangub City's City Engineering Project Management System
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
 Currently, two official plugins are available:
 ## General Objectives
 - The main objective of this study is to develop the City Engineering Project Monitoring System.
