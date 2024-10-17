@@ -8,7 +8,7 @@
     - Engineer
     - City Mayor
 - generate reports for the City Engineering Office.
-- Calendar implementatin for monitoring the project.
+- Calendar implementation for monitoring the project.
 - Project Interface and status.
 - Project CRUD operations.
 - SMS Notification.
